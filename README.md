@@ -1,9 +1,9 @@
 <div align="left">
 
-# 엄성훈 *Seonghun Eom*
+# I LOVE YOU *-*
 
 🧑🏻‍💻 Frontend Developer  
-👨🏻‍🎓 Dankook Univ. Japanese Studies. 
+
 
 **🔥 WECODE Bootcamp** @35기 <sub><sup>Frond-End (2022.06 - 08) </sup></sub>  
 
